@@ -16,7 +16,7 @@ Make sure you have already enabled Spatial Analyst of your ArcGIS (Open ArcMAP, 
         2.3 Change the version of ArcGIS (ArcGIS10.4 or Desktop10.4 in lines 5-9) to the same of your version
         2.4 If your ArcGIS is not installed in the default path, then change the path information accordingly.
         2.5 Press "F5" to run the script
-        2.6 The fail or complete information will shown in Python Shell window. If a new blank line appears in the shell window, it succeed.
+        2.6 The fail or complete information will show in Python Shell window. If a new blank line appears in the shell window, it succeed.
         
     3. Make "BasinOutlet" layer according to the "FlowAcc_Flow" file produced by "BasinDelineationPart1_sun.py", look for this layer in "Delineation" folder under your C Drive
     
