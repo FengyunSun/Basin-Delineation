@@ -41,7 +41,7 @@ Make sure you already enabled Spatial Analyst (Open ArcMAP, in menu, look for Cu
         1.2 Mosic DEM: 
             －In catalog, right click the folder, select make a new Personal Geodatabase. 
             －Right click the Geodatabase, select make new Raster Dataset.
-            －Right click the new Dataset, selct Load -- load data, selct all the downloaded DEM data
+            －Right click the new Dataset, selct Load -- load data, selct all the downloaded DEM data of interest
 
     2. Tips on how to make "BasinOutlet" layer (input of BasinDelineationPart2_sun.py)
         2.1 FlowAcc_Flow data, Layer Properties --Symbology --Classified --2 classes ...
