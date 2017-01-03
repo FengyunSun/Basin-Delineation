@@ -27,7 +27,7 @@ Make sure you already enabled Spatial Analyst (Open ArcMAP, in menu, look for Cu
         4.4 If your ArcGIS is not installed in the default path, then change the path information accordingly.
         4.5 Press "F5" to run the script
         
-    5. Check the result in "C:\Delineation" with ArcCatalog
+    5. Check the results in "C:\Delineation" with ArcCatalog
     
     6. If the basin border turns out not correct, re-edit the "BasinOutlet", and re-run "BasinDelineationPart2_sun.py"
 
