@@ -16,9 +16,10 @@ Make sure you already enabled Spatial Analyst (Open ArcMAP, in menu, look for Cu
         2.3 Change the version of ArcGIS (ArcGIS10.4 or Desktop10.4 in lines 5-9) to the same of your version
         2.4 If your ArcGIS is not installed in the default path, then change the path information accordingly.
         2.5 Press "F5" to run the script
-        2.6 The fail or complete information will shown in Python Shell window, if a new blank line appears in the shell window, it succeed.
+        2.6 The fail or complete information will shown in Python Shell window. If a new blank line appears in the shell window, it succeed.
         
-    3. Make "BasinOutlet" layer according to the "FlowAcc_Flow" file produced by "BasinDelineationPart1_sun.py"
+    3. Make "BasinOutlet" layer according to the "FlowAcc_Flow" file produced by "BasinDelineationPart1_sun.py", find this layer in "c
+   \Delineation"
     
     4. Edit and Run script "BasinDelineationPart2_sun.py"
         4.1 Right click "BasinDelineationPart2_sun.py", select "Edit with IDLE"
