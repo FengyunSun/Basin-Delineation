@@ -45,7 +45,7 @@ Make sure you have already enabled Spatial Analyst of your ArcGIS (Open ArcMAP, 
 
     2. Tips on how to make "BasinOutlet" layer (input of BasinDelineationPart2_sun.py)
         2.1 FlowAcc_Flow data, Layer Properties --Symbology --Classified --2 classes ...
-    --Classify --set the first Break value to 5000, after these steps, the riverlines should shown.
+    --Classify --set the first Break value to 5000, after these steps, the riverlines should appear.
         2.2 Make BasinOutlet data, this is the outlet the whole basin. 
             －first convert the lat and longi to degree format. Note: west longitude should be negative;
             －put lat and lon in .xls file, Arcgis has problem with .xlsx; 
