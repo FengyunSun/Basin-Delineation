@@ -2,7 +2,7 @@
 Useful Tool for Basin Deliniation
 
 
-Make sure you have already enabled Spatial Analyst (Open ArcMAP, in menu, look for Customize -- Extensions -- check the box before "Spatial Analyst").
+Make sure you have already enabled Spatial Analyst of your ArcGIS (Open ArcMAP, on menu, look for Customize -- Extensions -- check the box before "Spatial Analyst").
 
 ----
 
