@@ -6,7 +6,7 @@ Make sure you already enabled Spatial Analyst Open ArcMAP, in menu look for Cust
 
 ----
 
-### Run these script step by step:
+### Step by step precedures:
     
     1. "DEM" data should be prepared before run "BasinDelineationPart1_sun.py"
     
